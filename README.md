@@ -115,5 +115,6 @@ I am continuously learning, building real-world applications, and improving my s
 - 💻 GitHub: [@ahmmedrakib107](https://github.com/ahmmedrakib107)
 
 ---
+---
 
-⭐ Thanks for visiting my profile!
+🚀 Always learning. Always building.
