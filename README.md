@@ -11,12 +11,12 @@ I enjoy solving real-world problems through software development and building te
 ## 🚀 About Me
 
 - 📱 Flutter Developer
+- 🏗️ Expert in scalable and maintainable software architecture
 - 💻 Software Engineering Enthusiast
 - 🎓 Computer Science & Engineering Graduate
 - 🔥 Experienced with Flutter, Dart & Firebase
 - 🧠 Interested in Artificial Intelligence
 - 📚 Interested in Educational Technology
-- 🏗️ Interested in scalable and maintainable software architecture
 - 💡 Passionate about solving real-world problems through technology
 
 ---
@@ -78,14 +78,6 @@ A Flutter-based e-commerce mobile application with product browsing, cart manage
 ### 📖 Question Bank System
 
 An educational question management system for creating, organizing, and managing questions and examinations.
-
-**Technologies:** Flutter, Firebase, Dart
-
----
-
-### ✅ ToDo List App
-
-A productivity mobile application for managing tasks, reminders, and task categories.
 
 **Technologies:** Flutter, Firebase, Dart
 
