@@ -48,11 +48,11 @@ Android Studio, VS Code, Git, NetBeans, Code::Blocks
 
 ## 🚀 Featured Projects
 
-### 📚 Live Exam App
+### 📚 Live Exam and Question Bank Mobile App
 
-A scalable Flutter-based live examination platform designed for real-time online examinations.
+Built a mobile learning and assessment platform with goal-based learning paths, chapter-wise practice, advanced question bank search, live and timed examinations, automatic scoring, autosave functionality, and performance analytics. Designed scalable Firebase-backed architecture to support student progress tracking and digital assessment workflows.
 
-**Technologies:** Flutter, Dart, Firebase, Cloud Firestore, Riverpod
+**Technologies:** Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore
 
 **Key Features:**
 - Student authentication
@@ -67,19 +67,11 @@ A scalable Flutter-based live examination platform designed for real-time online
 ---
 
 
-### 🛒 Rylons E-commerce
+### 🛒 E-Question Bank \& Exam Management System
 
-A Flutter-based e-commerce mobile application with product browsing, cart management, checkout, and order tracking.
+Designed and developed a permission-based Question Bank and Examination Management System featuring centralized question storage, advanced filtering, random question selection, exam creation workflows, and role-based access control (RBAC). Implemented staff-level permission overrides, ownership-based authorization, and cloud-integrated backend services for secure and scalable operations.
 
-**Technologies:** Flutter, Firebase, Cloud Firestore
-
----
-
-### 📖 Question Bank System
-
-An educational question management system for creating, organizing, and managing questions and examinations.
-
-**Technologies:** Flutter, Firebase, Dart
+**Technologies:**Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore, Firebase Storage, Cloud Functions
 
 ---
 
